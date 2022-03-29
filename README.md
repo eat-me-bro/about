@@ -2,7 +2,7 @@
   <br>
   <samp>
     Hello there, welcome to <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://emb.rip">eatMe,Bro!</a></b>.
-    <br>This is just a fun project. A simple PWA that randomly select your favorite food store, to visit and hang out with your friends<br>
+    <br>A simple PWA that randomly select your favorite food store, to visit and hang out with your friends<br>
 
 </samp>
 
@@ -17,7 +17,7 @@
 <samp>
  <b><h2 style="color: #fc6203">EAT ME, &nbsp; B R O !</h2> </b>
 
-<img src="https://github.com/eat-me-bro/about/raw/main/src/img/wattermelon.gif" width="200"/>
+<img src="https://github.com/eat-me-bro/about/raw/main/src/img/watermelon.gif" width="200"/>
 
 Current State: ...
 
