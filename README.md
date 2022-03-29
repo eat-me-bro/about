@@ -6,7 +6,7 @@
 
 </samp>
 
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
+  <img src="https://github.com/eat-me-bro/about/raw/main/src/img/cat_fat.gif" width="200"/>
 
 </p>
 
@@ -17,21 +17,21 @@
 <samp>
  <b><h2 style="color: #fc6203">EAT ME, &nbsp; B R O !</h2> </b>
 
-<img src="https://github.com/eat-me-bro/about/raw/main/src/img/cat_fat.gif" width="200"/>
+<img src="https://github.com/eat-me-bro/about/raw/main/src/img/wattermelon.gif" width="200"/>
 
 Current State: ...
 
 <p align="center">
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/koraltan-kaynak/">
-  <img src="https://github.com/eat-me-bro/about/raw/main/src/img/cat_fat.gif/linkedin.png" width="30px" alt="LinkedIn"></a>
+  <img src="https://github.com/eat-me-bro/about/raw/main/src/img/linkedin.png" width="30px" alt="LinkedIn"></a>
   &nbsp; 
   &nbsp;
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://twitter.com/KoraltanKaynakv">
-  <img src="https://github.com/eat-me-bro/about/raw/main/src/img/cat_fat.gif/twitter.png" width="30px" alt="Twitter"></a>
+  <img src="https://github.com/eat-me-bro/about/raw/main/src/img/twitter.png" width="30px" alt="Twitter"></a>
   &nbsp; 
   &nbsp;
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.youtube.com/channel/UCbBb1mcQ3nG-5B5Md5wJXzw">
-  <img src="https://github.com/eat-me-bro/about/raw/main/src/img/cat_fat.gif/youtube.png" width="30px" alt="YouTube"></a>
+  <img src="https://github.com/eat-me-bro/about/raw/main/src/img/youtube.png" width="30px" alt="YouTube"></a>
 </p> 
 
 
