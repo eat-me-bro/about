@@ -6,7 +6,7 @@
 
 </samp>
 
-  <img src="https://github.com/eat-me-bro/about/raw/main/src/img/cat_fat.gif" width="200"/>
+  <img src="https://github.com/eat-me-bro/about/raw/main/src/img/cat_fat.gif" width="400"/>
 
 </p>
 
