@@ -1,7 +1,7 @@
 <p align="center">
   <br>
   <samp>
-    Hello there, welcome to <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://emb.rip">eatMe,Bro!</a></b>.
+    Hello there, welcome to <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://emb.rip">Eat Me, Bro!</a></b>.
     <br>A simple PWA that randomly select your favorite food store, to visit and hang out with your friends<br><br>
 
 </samp>
